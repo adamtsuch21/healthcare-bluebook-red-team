@@ -1,0 +1,20 @@
+provider_id,provider_name,provider_city,provider_state,provider_zip_code,apc,apc_desc,capc_services,average_medicare_allowed_amount,CBSA
+440003,Sumner Regional Medical Center,Gallatin,TN,37066,5302,Level 2 Upper GI Procedures,114,1223.45,34980
+440006,Tristar Skyline Medical Center,Nashville,TN,37207,5302,Level 2 Upper GI Procedures,15,1248.62,34980
+440029,Williamson Medical Center,Franklin,TN,37067,5302,Level 2 Upper GI Procedures,18,1248.62,34980
+440039,Vanderbilt University Medical Center,Nashville,TN,37232,5302,Level 2 Upper GI Procedures,623,1205.62,34980
+440046,Tristar Horizon Medical Center,Dickson,TN,37055,5302,Level 2 Upper GI Procedures,13,1095.57,99999
+440046,Tristar Horizon Medical Center,Dickson,TN,37055,5302,Level 2 Upper GI Procedures,13,1095.57,34980
+440053,Saint Thomas Rutherford Hospital,Murfreesboro,TN,37129,5302,Level 2 Upper GI Procedures,55,1248.62,34980
+440065,Northcrest Medical Center,Springfield,TN,37172,5302,Level 2 Upper GI Procedures,29,1248.62,34980
+440073,Maury Regional Hospital,Columbia,TN,38401,5302,Level 2 Upper GI Procedures,254,1229.64,30280
+440073,Maury Regional Hospital,Columbia,TN,38401,5302,Level 2 Upper GI Procedures,254,1229.64,34980
+440082,Saint Thomas West Hospital,Nashville,TN,37205,5302,Level 2 Upper GI Procedures,207,1224.59,34980
+440111,Metro Nashville General Hospital,Nashville,TN,37208,5302,Level 2 Upper GI Procedures,12,1248.62,34980
+440133,Saint Thomas Midtown Hospital,Nashville,TN,37236,5302,Level 2 Upper GI Procedures,98,1238.47,34980
+440150,Tristar Summit Medical Center,Hermitage,TN,37076,5302,Level 2 Upper GI Procedures,21,1159.03,34980
+440161,Tristar Centennial Medical Center,Nashville,TN,37203,5302,Level 2 Upper GI Procedures,170,1207.66,34980
+440193,Tennova Healthcare-Lebanon,Lebanon,TN,37087,5302,Level 2 Upper GI Procedures,30,1182.3,34980
+440194,Tristar Hendersonville Medical Center,Hendersonville,TN,37075,5302,Level 2 Upper GI Procedures,92,1142.08,34980
+440197,Tristar Southern Hills Medical Center,Nashville,TN,37211,5302,Level 2 Upper GI Procedures,49,1228.34,34980
+440227,Tristar Stonecrest Medical Center,Smyrna,TN,37167,5302,Level 2 Upper GI Procedures,51,1170.59,34980
