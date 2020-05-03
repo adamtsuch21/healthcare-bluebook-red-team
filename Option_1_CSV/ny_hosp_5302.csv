@@ -1,0 +1,91 @@
+provider_id,provider_name,provider_city,provider_state,provider_zip_code,apc,apc_desc,capc_services,average_medicare_allowed_amount,CBSA
+310001,Hackensack University Medical Center,Hackensack,NJ,07601,5302,Level 2 Upper GI Procedures,197,1538.63,35620
+310002,Newark Beth Israel Medical Center,Newark,NJ,07112,5302,Level 2 Upper GI Procedures,20,1528.38,35620
+310003,Palisades Medical Center,North Bergen,NJ,07047,5302,Level 2 Upper GI Procedures,22,1544.85,35620
+310005,Hunterdon Medical Center,Flemington,NJ,08822,5302,Level 2 Upper GI Procedures,53,1398.08,35620
+310006,St Mary's General Hospital,Passaic,NJ,07055,5302,Level 2 Upper GI Procedures,39,1544.85,35620
+310008,Holy Name Medical Center,Teaneck,NJ,07666,5302,Level 2 Upper GI Procedures,48,1544.85,35620
+310009,Clara Maass Medical Center,Belleville,NJ,07109,5302,Level 2 Upper GI Procedures,46,1501.97,35620
+310010,Univ Medical Center Of Princeton At Plainsboro,Plainsboro,NJ,08536,5302,Level 2 Upper GI Procedures,95,1505.81,35620
+310012,Valley Hospital,Ridgewood,NJ,07450,5302,Level 2 Upper GI Procedures,85,1544.86,35620
+310015,Morristown Medical Center,Morristown,NJ,07962,5302,Level 2 Upper GI Procedures,228,1519.71,35620
+310016,Carepoint Health-Christ Hospital,Jersey City,NJ,07306,5302,Level 2 Upper GI Procedures,17,1544.85,35620
+310017,Chilton Medical Center,Pompton Plains,NJ,07444,5302,Level 2 Upper GI Procedures,66,1509.93,35620
+310019,St Joseph's Regional Medical Center,Paterson,NJ,07503,5302,Level 2 Upper GI Procedures,122,1534.76,35620
+310024,Robert Wood Johnson University Hospital At Rahway,Rahway,NJ,07065,5302,Level 2 Upper GI Procedures,40,1419.46,35620
+310025,Carepoint Health - Bayonne Medical Center,Bayonne,NJ,07002,5302,Level 2 Upper GI Procedures,54,1544.91,35620
+310027,Trinitas Regional Medical Center,Elizabeth,NJ,07207,5302,Level 2 Upper GI Procedures,45,1396.87,35620
+310028,Newton Medical Center,Newton,NJ,07860,5302,Level 2 Upper GI Procedures,28,1528.54,35620
+310028,Newton Medical Center,Newton,NJ,07860,5302,Level 2 Upper GI Procedures,28,1528.54,10900
+310034,Riverview Medical Center,Red Bank,NJ,07701,5302,Level 2 Upper GI Procedures,93,1506.74,35620
+310038,Robert Wood Johnson University Hospital,New Brunswick,NJ,08901,5302,Level 2 Upper GI Procedures,76,1402.94,35620
+310039,Raritan Bay Medical Center Perth Amboy Division,Perth Amboy,NJ,08861,5302,Level 2 Upper GI Procedures,35,1544.85,35620
+310041,Community Medical Center,Toms River,NJ,08755,5302,Level 2 Upper GI Procedures,83,1544.89,35620
+310045,Englewood Hospital And Medical Center,Englewood,NJ,07631,5302,Level 2 Upper GI Procedures,84,1521.0,35620
+310048,Robert Wood Johnson University Hospital Somerset,Somerville,NJ,08876,5302,Level 2 Upper GI Procedures,72,1390.01,35620
+310050,Saint Clare's Hospital/ Denville Campus,Denville,NJ,07834,5302,Level 2 Upper GI Procedures,13,1528.38,35620
+310051,Overlook Medical Center,Summit,NJ,07902,5302,Level 2 Upper GI Procedures,256,1519.19,35620
+310052,Ocean Medical Center,Brick,NJ,08724,5302,Level 2 Upper GI Procedures,108,1533.46,35620
+310054,Hackensack-Umc Mountainside,Montclair,NJ,07042,5302,Level 2 Upper GI Procedures,133,1528.44,35620
+310070,Saint Peter's University Hospital,New Brunswick,NJ,08901,5302,Level 2 Upper GI Procedures,121,1544.88,35620
+310073,Jersey Shore University Medical Center,Neptune,NJ,07754,5302,Level 2 Upper GI Procedures,97,1544.85,35620
+310074,Jersey City Medical Center,Jersey City,NJ,07302,5302,Level 2 Upper GI Procedures,19,1544.85,35620
+310075,Monmouth Medical Center,Long Branch,NJ,07740,5302,Level 2 Upper GI Procedures,128,1517.15,35620
+310076,Saint Barnabas Medical Center,Livingston,NJ,07039,5302,Level 2 Upper GI Procedures,151,1488.13,35620
+310083,East Orange General Hospital,East Orange,NJ,07018,5302,Level 2 Upper GI Procedures,61,1528.55,35620
+310084,Monmouth Medical Center-Southern Campus,Lakewood,NJ,08701,5302,Level 2 Upper GI Procedures,12,1545.09,35620
+310096,Saint Michael's Medical Center,Newark,NJ,07102,5302,Level 2 Upper GI Procedures,37,1528.43,35620
+310108,Jfk Medical Ctr - Anthony M. Yelencsics Community,Edison,NJ,08818,5302,Level 2 Upper GI Procedures,50,1520.25,35620
+310111,Centrastate Medical Center,Freehold,NJ,07728,5302,Level 2 Upper GI Procedures,124,1518.77,35620
+310112,Bayshore Medical Center,Holmdel,NJ,07733,5302,Level 2 Upper GI Procedures,13,1545.08,35620
+310113,Southern Ocean Medical Center,Manahawkin,NJ,08050,5302,Level 2 Upper GI Procedures,41,1544.88,35620
+310115,Hackettstown Medical Center,Hackettstown,NJ,07840,5302,Level 2 Upper GI Procedures,20,1419.68,10900
+310115,Hackettstown Medical Center,Hackettstown,NJ,07840,5302,Level 2 Upper GI Procedures,20,1419.68,35620
+310119,University Hospital,Newark,NJ,07101,5302,Level 2 Upper GI Procedures,44,1528.38,35620
+330024,Mount Sinai Hospital,New York,NY,10029,5302,Level 2 Upper GI Procedures,281,1525.1,35620
+330028,Richmond University Medical Center,Staten Island,NY,10304,5302,Level 2 Upper GI Procedures,63,1544.94,35620
+330043,Southside Hospital,Bay Shore,NY,11706,5302,Level 2 Upper GI Procedures,18,1457.22,35620
+330045,Huntington Hospital,Huntington,NY,11743,5302,Level 2 Upper GI Procedures,49,1589.69,35620
+330046,Mount Sinai West,New York,NY,10019,5302,Level 2 Upper GI Procedures,45,1561.61,35620
+330055,New York-Presbyterian/Queens,Flushing,NY,11355,5302,Level 2 Upper GI Procedures,126,1589.71,35620
+330056,Brooklyn Hospital Center At Downtown Campus,Brooklyn,NY,11201,5302,Level 2 Upper GI Procedures,26,1544.85,35620
+330059,Montefiore Medical Center,Bronx,NY,10467,5302,Level 2 Upper GI Procedures,145,1589.7,35620
+330061,Lawrence Hospital Center,Bronxville,NY,10708,5302,Level 2 Upper GI Procedures,19,1589.69,35620
+330101,New York-Presbyterian Hospital,New York,NY,10065,5302,Level 2 Upper GI Procedures,825,1576.52,35620
+330104,Nyack Hospital,Nyack,NY,10960,5302,Level 2 Upper GI Procedures,84,1544.88,35620
+330119,Lenox Hill Hospital,New York,NY,10021,5302,Level 2 Upper GI Procedures,84,1575.26,35620
+330106,North Shore University Hospital,Manhasset,NY,11030,5302,Level 2 Upper GI Procedures,322,1571.67,35620
+330141,Brookhaven Memorial Hospital Medical Center,Patchogue,NY,11772,5302,Level 2 Upper GI Procedures,22,1532.12,35620
+330154,Memorial Hospital For Cancer And Allied Diseases,New York,NY,10021,5302,Level 2 Upper GI Procedures,535,1527.62,35620
+330158,Good Samaritan Hospital Of Suffern,Suffern,NY,10901,5302,Level 2 Upper GI Procedures,123,1538.58,35620
+330160,Staten Island University Hospital,Staten Island,NY,10305,5302,Level 2 Upper GI Procedures,157,1522.27,35620
+330162,Northern Westchester Hospital,Mount Kisco,NY,10549,5302,Level 2 Upper GI Procedures,88,1589.78,35620
+330167,Nyu Winthrop Hospital,Mineola,NY,11501,5302,Level 2 Upper GI Procedures,247,1579.43,35620
+330169,Mount Sinai Beth Israel/Petrie Campus,New York,NY,10003,5302,Level 2 Upper GI Procedures,101,1570.73,35620
+330194,Maimonides Medical Center,Brooklyn,NY,11219,5302,Level 2 Upper GI Procedures,123,1583.26,35620
+330181,Glen Cove Hospital,Glen Cove,NY,11542,5302,Level 2 Upper GI Procedures,25,1494.25,35620
+330182,"St Francis Hospital, Roslyn",Roslyn,NY,11576,5302,Level 2 Upper GI Procedures,376,1586.37,35620
+330184,Montefiore New Rochelle Hospital,New Rochelle,NY,10802,5302,Level 2 Upper GI Procedures,25,1589.79,35620
+330185,John T Mather Memorial Hospital  Of Port Jefferson,Port Jefferson,NY,11777,5302,Level 2 Upper GI Procedures,19,1589.78,35620
+330195,Long Island Jewish Medical Center,New Hyde Park,NY,11040,5302,Level 2 Upper GI Procedures,133,1542.72,35620
+330198,South Nassau Communities Hospital,Oceanside,NY,11572,5302,Level 2 Upper GI Procedures,89,1589.7,35620
+330204,Bellevue Hospital Center,New York,NY,10016,5302,Level 2 Upper GI Procedures,12,1545.09,35620
+330208,St John's Riverside Hospital,Yonkers,NY,10701,5302,Level 2 Upper GI Procedures,18,1589.69,35620
+330214,Nyu Langone Hospitals,New York,NY,10016,5302,Level 2 Upper GI Procedures,361,1528.43,35620
+330221,Wyckoff Heights Medical Center,Brooklyn,NY,11237,5302,Level 2 Upper GI Procedures,11,1545.12,35620
+330234,Westchester Medical Center,Valhalla,NY,10595,5302,Level 2 Upper GI Procedures,133,1540.21,35620
+330236,New York-Presbyterian Brooklyn Methodist Hospital,Brooklyn,NY,11215,5302,Level 2 Upper GI Procedures,99,1544.89,35620
+330259,Mercy Medical Center,Rockville Centre,NY,11570,5302,Level 2 Upper GI Procedures,15,1589.69,35620
+330261,Phelps Memorial Hospital Assn,Sleepy Hollow,NY,10591,5302,Level 2 Upper GI Procedures,125,1589.79,35620
+330267,New York-Presbyterian/Hudson Valley Hospital,Cortlandt Manor,NY,10567,5302,Level 2 Upper GI Procedures,63,1549.5,35620
+330273,Putnam Hospital Center,Carmel,NY,10512,5302,Level 2 Upper GI Procedures,22,1531.51,39100
+330273,Putnam Hospital Center,Carmel,NY,10512,5302,Level 2 Upper GI Procedures,22,1531.51,35620
+330286,Good Samaritan Hospital Medical Center,West Islip,NY,11795,5302,Level 2 Upper GI Procedures,36,1589.77,35620
+330304,White Plains Hospital Center,White Plains,NY,10601,5302,Level 2 Upper GI Procedures,218,1568.65,35620
+330331,Plainview Hospital,Plainview,NY,11803,5302,Level 2 Upper GI Procedures,31,1589.7,35620
+330332,St Joseph Hospital,Bethpage,NY,11714,5302,Level 2 Upper GI Procedures,15,1589.69,35620
+330340,University Hospital -  Stony Brook Southampton,Southampton,NY,11968,5302,Level 2 Upper GI Procedures,17,1589.69,35620
+330393,University Hospital,Stony Brook,NY,11794,5302,Level 2 Upper GI Procedures,494,1571.75,35620
+330395,St John's Episcopal Hospital At South Shore,Far Rockaway,NY,11691,5302,Level 2 Upper GI Procedures,17,1589.69,35620
+330399,St Barnabas Hospital,Bronx,NY,10457,5302,Level 2 Upper GI Procedures,25,1589.81,35620
+330401,St Catherine Of Siena Hospital,Smithtown,NY,11787,5302,Level 2 Upper GI Procedures,22,1589.87,35620
